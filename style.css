@@ -1,0 +1,30 @@
+/*Selector de eqtiqueta HTML*/
+*{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+
+h1{background-color: rgb(119, 211, 82);
+width: 300px; padding: 10px;border: 2px; margin: 20px; text-align: center;}
+
+.title11{align-items: center; justify-content: center;display: flex;}
+
+body{background-color: aquamarine;}
+
+h3{color: #6a11a5;}
+
+p{font-weight: bold;text-transform: uppercase;text-align: center;}
+
+h2{color: blueviolet;}
+
+ul li {text-decoration: none;}
+
+.target{background-color: rgb(201, 89, 89); border: 3px solid pink; margin: 30px;}
+
+#titulo1{color: blue;}
+
+#titulo2{color: rgb(36, 149, 214);}
+
+#titulo3{color: rgb(90, 221, 140);}
+
+#titulo4{color: rgb(132, 177, 60);}
+
+#imagen1 {width: 550px;
+    height: 750px; border-radius: 50%;}
